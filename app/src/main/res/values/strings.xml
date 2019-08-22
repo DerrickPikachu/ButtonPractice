@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ButtonPractice</string>
+    <string name="bigger">bigger</string>
+    <string name="littler">LITTLER</string>
 </resources>
